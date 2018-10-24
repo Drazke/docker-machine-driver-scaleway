@@ -253,6 +253,10 @@ root@ab197ef8bd3c:/# exit
 
 ## Changelog
 
+### v1.4 (2018-10-24)
+
+* Add `--scaleway-bootscript`
+
 ### v1.3 (2016-10-28)
 
 * Add `--scaleway-region` to start server on different location e.g. `ams1` (Amsterdam)
